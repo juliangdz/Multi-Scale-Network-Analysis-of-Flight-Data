@@ -22,6 +22,7 @@ For this study, the ‘Airports.csv’ and ‘Flights Data.xlsx’ files are use
 - “Target City”: which represents the city where the destination airport is located. 
 - “Target Country”: which represents the country where the destination airport is located. 
 - “Weight”: which represents the passenger volume for each flight.
+####
 The ‘Airports.csv’ file contains information about the location of the airports, it has the following columns: 
 - “id”: which represents the airport id in IATA format. 
 - “label”: which represents the city where the airport is located. 
