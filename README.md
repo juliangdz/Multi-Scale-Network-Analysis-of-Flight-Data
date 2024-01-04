@@ -2,11 +2,9 @@
 
 ## Network Analysis of USA, UK, China, and Australia
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Student ID: 437451
-Student Name: Julian Gerald Dcruz 
-Course Code: N-AAI-DAV-23-A23
+- Student ID: 437451
+- Student Name: Julian Gerald Dcruz 
+- Course Code: N-AAI-DAV-23-A23
 
 ### Requirements
 
